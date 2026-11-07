@@ -100,6 +100,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 ### 🛡️ Defensive & Guardrail Tools
 
+- ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) [**HOL Guard**](https://github.com/hashgraph-online/hol-guard): Apache-2.0, local-first runtime policy checks for supported AI coding-agent actions, including commands, secret-file access, package changes, and MCP tools, with approval or blocking based on configuration.
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?color=gold) [**Guardrails**](https://github.com/guardrails-ai/guardrails): Add structured validation and policy enforcement for LLMs.
 - ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social) [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social) [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META.
